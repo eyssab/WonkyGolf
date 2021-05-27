@@ -13,6 +13,12 @@
 - Camera Movement: Mouse
 - Open Options Menu: Escape Key
  
+ # Instructions
+Walk up to the golf ball using WASD movement to pick up the ball, once the ball is picked up you have 10 seconds to shoot the ball(using the left click) in the direction you are looking. Every time the ball is shot the number of strokes goes up by 1.
+
+# Objective
+Complete every mini golf map in as few strokes as possible
+
 # Photos
 ![Screenshot (26)](https://user-images.githubusercontent.com/12979759/119718962-36b0cd00-be36-11eb-9d09-2cb4a1cba13b.png)
 
