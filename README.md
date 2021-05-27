@@ -20,7 +20,7 @@ Walk up to the golf ball using WASD movement to pick up the ball, once the ball 
 Complete every mini golf map in as few strokes as possible
 
 # Photos
-![Screenshot (26)](https://user-images.githubusercontent.com/12979759/119718962-36b0cd00-be36-11eb-9d09-2cb4a1cba13b.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/12979759/119847980-69f86800-bed9-11eb-806c-42264be998d0.png)
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/12979759/119718748-f18c9b00-be35-11eb-9479-40801026e5bc.png)
 
