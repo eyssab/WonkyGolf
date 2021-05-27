@@ -6,6 +6,13 @@
 # Play
 - https://eyssab.itch.io/wonky-golf
  
+ # Controls (Mouse and Keyboard):
+- Movement: WASD
+- Shoot: Left Click
+- Set Shot Power: Scroll Wheel (up to increase shot power, down to decrease)
+- Camera Movement: Mouse
+- Open Options Menu: Escape Key
+ 
 # Photos
 ![Screenshot (26)](https://user-images.githubusercontent.com/12979759/119718962-36b0cd00-be36-11eb-9d09-2cb4a1cba13b.png)
 
